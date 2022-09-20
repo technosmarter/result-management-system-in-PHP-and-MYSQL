@@ -14,4 +14,5 @@ The result managment system is created with simple installer.You can install it 
 5. Open result URL on your browser. <br>
 6. Fill up the details and install . <br>
 You can get complete <a href="https://technosmarter.com/contact">support</a> for installation. 
+Get <a href="https://technosmarter.com/item/student-result-management-system-for-school-and-college-in-php-website">Result management system in PHP (Demo & Source Code)</a>
 
