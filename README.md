@@ -5,8 +5,8 @@ The result management system is written in PHP. This result management system is
 You can get complete source code for result managment system in PHP and MYSQL. 
 Get <a href="https://technosmarter.com/item/student-result-management-system-for-school-and-college-in-php-website">Result management system in PHP (Demo & Source Code)</a>
 
-<h2>How to install Result managment system in PHP and MYSQL -</h2> 
-The result managment system is created with simple installer. You can install it on your server with a form only.If you want to install on liver server then follow the same process. 
+<h2>How to install Result management system in PHP and MYSQL -</h2> 
+The result managment system is created with simple installer.You can install it on your server with a form only.If you want to install on live server then follow the same process. 
 1. Upload the zip file one your localhost or live server . <br>
 2.Extract zip file . <br>
 3. You can install in any folder. <br>
